@@ -6,6 +6,8 @@ This repository contains the Entity Relationship Diagram (ERD) created as part o
 
 The goal of this assignment is to design a database structure for a modern clinic that manages its operations digitally. The system supports managing doctors, patients, appointments, consultations, diagnostic tests, reports, and payments.
 
+![Uploading Clinic Management System ER Diagram.png…]()
+
 ## System Description
 
 In this clinic system:
